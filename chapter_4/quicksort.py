@@ -4,7 +4,7 @@
 """
 Ref: Chapter 4
 Ref: Grokking Algorithms: An illustrated guide for programmers and other curious people, A. Bhargava, 2016.
-Quicksort - A sorting routine using divide & conquer and recursion. Runtime is O(n log n)
+Quicksort - A sorting routine using divide & conquer and recursion. Runtime is O(n)
 Assume pivot is first element in list
 Assume list has no duplicate elements
 """
